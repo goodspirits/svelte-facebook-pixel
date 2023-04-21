@@ -1,5 +1,5 @@
 {
-  "name": "@beyonk/svelte-facebook-pixel",
+  "name": "@goodspirits/svelte-facebook-pixel",
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
@@ -37,5 +37,5 @@
     "src",
     "dist"
   ],
-  "version": "3.0.1"
+  "version": "3.0.2"
 }

@@ -30,7 +30,7 @@
       s.parentNode.insertBefore(t, s)
     }
 
-    fn(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js')
+    fn(window, document, 'link', 'https://connect.facebook.net/en_US/fbevents.js')
     callback()
   }
 
